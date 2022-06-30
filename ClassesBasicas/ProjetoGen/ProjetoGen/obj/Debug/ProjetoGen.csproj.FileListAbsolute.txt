@@ -1,0 +1,10 @@
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\bin\Debug\ProjetoGen.exe.config
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\bin\Debug\ProjetoGen.exe
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\bin\Debug\ProjetoGen.pdb
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.csproj.AssemblyReference.cache
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.MainForm.resources
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.Properties.Resources.resources
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.csproj.GenerateResource.cache
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.exe
+C:\Users\KB\Documents\solidProjectsC#\ClassesBasicas\ProjetoGen\ProjetoGen\obj\Debug\ProjetoGen.pdb

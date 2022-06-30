@@ -1,0 +1,8 @@
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.csproj.AssemblyReference.cache
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.PainelTarefasHostUI.resources
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.csproj.GenerateResource.cache
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.csproj.CoreCompileInputs.cache
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\bin\Debug\FastDevEng.dll
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\bin\Debug\FastDevEng.pdb
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.dll
+C:\Users\KB\Documents\solidProjectsC#\TaskAddIn\FastDevEng\FastDevEng\obj\Debug\FastDevEng.pdb
